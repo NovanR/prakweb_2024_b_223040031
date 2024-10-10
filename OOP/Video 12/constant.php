@@ -8,9 +8,9 @@
 // const UMUR = 22;
 // echo UMUR;
 
-// class coba {
-//     const NAMA = "Novan";
-// }
+class coba {
+    const NAMA = "Novan";
+}
 
-// echo coba::NAMA;
+echo coba::NAMA;
 
